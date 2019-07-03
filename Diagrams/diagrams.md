@@ -3,6 +3,6 @@
 ![Core](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Core.svg)
 ![Matrix](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Matrix.svg)
 
-Accreditation (TODO)
+Accreditation (@Giancarlo and @Tiago)
 
 Measurement (TODO)
