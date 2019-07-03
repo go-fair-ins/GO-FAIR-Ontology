@@ -7,6 +7,7 @@ It's goal is to define key terms and their relations, independent on any impleme
 
 The model is elaborated in [Visual Paradigm Community Edition](https://www.visual-paradigm.com/editions/community/).
 
+[Diagrams](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/diagrams.md)
 
 
 ## Resources
