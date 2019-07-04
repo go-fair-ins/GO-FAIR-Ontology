@@ -13,6 +13,7 @@ The model is elaborated in [Visual Paradigm Community Edition](https://www.visua
 
 ### UFO + OntoUML
 - UFO and OntoUML: https://ontouml.org
+- [A thesis on applying deep semantic ontologies for metadata modelling](https://github.com/go-fair-ins/GO-FAIR-Ontology/tree/master/Resources/Thesis%20on%20Deep%20Semantics%20for%20Metadata)
 - Transformation of OntoUML models into UML and relational schema: https://fit.cvut.cz/sites/default/files/PhDThesis-Rybola.pdf
 - For other fundamental papers see http://www.inf.ufes.br/~gguizzardi/Education.htm
 
