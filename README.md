@@ -9,10 +9,13 @@ The model is elaborated in [Visual Paradigm Community Edition](https://www.visua
 
 [Diagrams](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/diagrams.md)
 
-
 ## Resources
 
+### UFO + OntoUML
 - UFO and OntoUML: https://ontouml.org
 - Transformation of OntoUML models into UML and relational schema: https://fit.cvut.cz/sites/default/files/PhDThesis-Rybola.pdf
 - For other fundamental papers see http://www.inf.ufes.br/~gguizzardi/Education.htm
 
+### Vocabularies
+- https://peta-pico.github.io/FAIR-nanopubs/principles/index-en.html
+- https://github.com/go-fair-ins/FAIR-models/blob/master/icc-overview.md
