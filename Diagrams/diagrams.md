@@ -3,6 +3,8 @@
 ![Core](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Core.svg)
 ![Matrix](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Matrix.svg)
 
-Certification (@Giancarlo and @Tiago)
+FAIR Digital Object (WIP: @Luiz)
 
-Measurement (TODO)
+Certification (WIP: @Giancarlo and @Tiago)
+
+Measurement (WIP)
