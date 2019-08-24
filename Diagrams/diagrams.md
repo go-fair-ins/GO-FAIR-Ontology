@@ -1,10 +1,7 @@
-![Architecture](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Architecture.pdf)
-![Context](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Context.pdf)
-![Core](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Core.pdf)
-![Matrix](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Matrix.pdf)
-
-FAIR Digital Object (WIP: @Luiz)
-
-Certification (WIP: @Giancarlo and @Tiago)
-
-Measurement (WIP)
+- [Architecture](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Architecture.pdf)
+- [Context](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Context.pdf)
+- [Core](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Core.pdf)
+- [Matrix](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Matrix.pdf)
+- FAIR Digital Object (WIP: @Luiz)
+- Certification (WIP: @Giancarlo and @Tiago)
+- Measurement (WIP)
