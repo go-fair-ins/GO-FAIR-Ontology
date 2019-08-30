@@ -1,6 +1,6 @@
 # GO FAIR Ontology
 
-This repository contains GO FAIR foundational ontology modelled on top of Unified Foundational Ontology (UFO) using the OntoUML language.
+This repository contains GO FAIR Core Ontology modelled using Unified Foundational Ontology (UFO) and the OntoUML language.
 It's goal is to define key terms and their relations, independent on any implementation considerations, i.e. to provide ontological clarification.
 
 ## The Model
