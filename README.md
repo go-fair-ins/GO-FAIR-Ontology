@@ -1,4 +1,4 @@
-# GO FAIR Ontology
+# GO FAIR Core Ontology
 
 This repository contains GO FAIR Core Ontology modelled using Unified Foundational Ontology (UFO) and the OntoUML language.
 It's goal is to define key terms and their relations, independent on any implementation considerations, i.e. to provide ontological clarification.
@@ -17,6 +17,5 @@ The model is elaborated in [Visual Paradigm Community Edition](https://www.visua
 - Transformation of OntoUML models into UML and relational schema: https://fit.cvut.cz/sites/default/files/PhDThesis-Rybola.pdf
 - For other fundamental papers see http://www.inf.ufes.br/~gguizzardi/Education.htm
 
-### Vocabularies
-- https://peta-pico.github.io/FAIR-nanopubs/principles/index-en.html
-- https://github.com/go-fair-ins/FAIR-models/blob/master/icc-overview.md
+### Semantic Data Models and Vocabularies
+- https://github.com/go-fair-ins/FAIR-models
