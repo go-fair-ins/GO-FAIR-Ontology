@@ -6,4 +6,4 @@ Powerful incentives are driving the adoption of FAIR practices among a broad cro
 - [FIP Convergence Matrix Description](FIP-description.md)
 - [FIP Wizard](https://fip-wizard.ds-wizard.org)
 - FIP Wizard questions mindmap: [PDF](FIP-MM.pdf), [FreeMind](FIP-MM.mm), [MindManager](FIP-MM.opml)
-- [FIP Wizard questions export](gofair_fip-wizard_4.0.6.km) -- human-readable and machine-actionable export for further processing, e.g. to transform into various questionnaire systems formats
+- [FIP Wizard questions export](gofair_fip-wizard_4.0.6.json) -- human-readable and machine-actionable export for further processing, e.g. to transform into various questionnaire systems formats
