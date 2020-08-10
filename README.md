@@ -3,11 +3,11 @@
 This repository contains GO FAIR Reference Ontology modelled using Unified Foundational Ontology (UFO) and the OntoUML language.
 It's goal is to define key terms and their relations, independent on any implementation considerations, i.e. to provide ontological clarification.
 
-## The Model
+## The Models
 
-The model is elaborated in [Visual Paradigm Community Edition](https://www.visual-paradigm.com/editions/community/).
+The models are elaborated in [Visual Paradigm Community Edition](https://www.visual-paradigm.com/editions/community/).
 
-[Diagrams](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/diagrams.md)
+[Go to Models](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Models/readme.md)
 
 ## Resources
 

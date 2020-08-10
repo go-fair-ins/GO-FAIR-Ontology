@@ -1,0 +1,7 @@
+- [Architecture](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Models/Architecture.pdf)
+- [Context](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Models/Context.pdf)
+- [Core](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Models/Core.pdf)
+- [FAIR Implementation Profile](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Models/FIP/readme.md)
+- FAIR Digital Object (WIP: @Luiz)
+- Certification (WIP: @Giancarlo and @Tiago)
+- Measurement (WIP)
