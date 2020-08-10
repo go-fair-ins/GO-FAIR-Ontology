@@ -1,7 +1,7 @@
 - [Architecture](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Architecture.pdf)
 - [Context](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Context.pdf)
 - [Core](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Core.pdf)
-- [Matrix](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Matrix.pdf) and its [Description](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/Diagrams/Matrix-description.md)
+- [FAIR Implementation Profile](https://github.com/go-fair-ins/GO-FAIR-Ontology/blob/master/FIP/readme.md)
 - FAIR Digital Object (WIP: @Luiz)
 - Certification (WIP: @Giancarlo and @Tiago)
 - Measurement (WIP)
